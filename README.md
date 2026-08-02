@@ -13,31 +13,5 @@
 ![alt text](<system_architecture_diagram.png>)
 
 
-# 개발 기획
-# GitHub 이슈
+# 개발 기획 (GitHub 이슈)
 https://github.com/ymina25/hub/issues
-
-## 완료 작업 목록
-[Issue #1] [FE/P0] SearchPage Mock 구현 및 라우팅 스켈레톤 구축
-https://github.com/ymina25/hub/issues/1
-
-[Issue #2] [BE/P0] Supabase 연결 및 Item 단일 테이블 스키마 설계
-https://github.com/ymina25/hub/issues/2
-
-[Issue #3] [FE/BE/P0] [Vertical Slice 완결] 품목 검색 실데이터 서버-DB 연동
-https://github.com/ymina25/hub/issues/3
-
-[Issue #4] [BE/P0] 공공데이터 API 클라이언트 및 Object Normalizer 설계
-https://github.com/ymina25/hub/issues/4
-
-[Issue #5] [BE/FE/P1] 멀터 이미지 업로드 및 OpenAI Vision API 연동
-https://github.com/ymina25/hub/issues/5
-
-[Issue #6] [BE/FE/P1] LLM 데이터 가공 엔드포인트 완성 및 ResultPage 실데이터 바인딩
-https://github.com/ymina25/hub/issues/6
-
-[Issue #7] [BE/FE/P1/P2] 지역 규정 모델링 및 오늘/일주일 배출 일정 대시보드 구현
-https://github.com/ymina25/hub/issues/7
-
-[ALL/P0] Week 1 통합 점검 및 정리
-https://github.com/ymina25/hub/issues/8
